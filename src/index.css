@@ -61,3 +61,7 @@
 .blo-detail div {
   margin: 20px 0;
 }
+.blo-detail button {
+  background-color: #f1356d;
+  color: white;
+}
