@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title":"My first Name",
+            "body":"In this article, I have included a whole load of blog examples from a wide variety of different niches, all run on different blogging platforms like WordPress, Joomla! and Drupal.",
+            "author":"mario",
+            "id":1
+        },
+        {
+            "title":"Opening party!",
+            "body":"Each example listed in this blog post are all different in some way and all bring something unique to their readers & subscribers. I want to show you what is possible and how you can take inspiration from them and create an awesome blog of your own.",
+            "author":"yoshi",
+            "id":2
+        },
+        {
+            "title":"Opening party!",
+            "body":"Each example listed in this blog post are all different in some way and all bring something unique to their readers & subscribers. I want to show you what is possible and how you can take inspiration from them and create an awesome blog of your own.",
+            "author":"yoshi",
+            "id":2
+        }
+    ]
+}
